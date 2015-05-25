@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Worth Reading
 tagline:          'Articles, videos and other content I find interesting.'
 description:      'Weekly collection of articles, videos and other content I find interesting. Made by <a href="https://twitter.com/mihneadb" target="_blank">@mihneadb</a>.'
-url:              http://www.worthreading.it
+url:              https://www.worthreading.it
 baseurl:          /
 
 author:
