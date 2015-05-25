@@ -1,6 +1,6 @@
 # Worth Reading
 
-http://www.worthreading.it
+https://www.worthreading.it
 
 > Articles, videos and other content I find interesting.
 
