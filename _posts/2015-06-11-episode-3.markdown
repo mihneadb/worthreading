@@ -1,0 +1,29 @@
+---
+layout: post
+title: Episode 3
+---
+
+Since it's NBA Finals time, let's start off with a funny [photo](http://i.imgur.com/jZQJKxr.jpg).
+
+Meanwhile, people in Mountain View seem to have [unbearable problems](https://twitter.com/bradfitz/status/608124517928427520).
+
+[Great illustration](https://twitter.com/dhh/status/605685526675517440) of market dominance.
+
+An article that got quite some attention - some Egyptian handyman ended up being the first result for `google` on Google in Egypt. Guess what happened next.
+
+I've found a great Twitter [account](https://twitter.com/rustlang_bot) that aggregates links to [rust-lang](http://www.rust-lang.org/) content.
+
+A great write-up on the buzzwords that surround the tech scene today. [link](http://blog.circleci.com/its-the-future/)
+
+A retired bank robber did an [ama](https://www.reddit.com/r/IAmA/comments/39b67t/im_a_retired_bank_robber_ama) on Reddit. This is gold.
+
+A [research project](http://arstechnica.co.uk/business/2015/05/firefoxs-tracking-cookie-blacklist-reduces-website-load-time-by-44/) found that disabling tracking cookies basically halves webpages' load time. Crazy.
+
+Speaking about research projects, [Structure](http://structure.io/) seems incredible.
+
+The past days were big on [Google Photos](https://photos.google.com). There are plenty reviews out there - I found the [WSJ one](http://www.wsj.com/articles/google-photos-review-why-google-beats-apple-at-organizing-your-lifes-memories-1433266299) pretty good. The Verge has a pretty good [post](http://www.theverge.com/a/sundars-google/google-photos-google-io-2015) too, as well as a more [emotional review](http://www.theverge.com/2015/6/4/8729943/laughing-and-crying-my-way-through-the-new-google-photos). Someone also tried a layman [explanation](https://medium.com/backchannel/how-google-s-new-photos-app-can-tell-cats-from-dogs-ffd651dfcd80) for the tech behind it. And of course, the privacy matters began to [surface](http://techcrunch.com/2015/06/01/google-photos-reminder-smile-its-free-youre-the-product/) immediately. Even Tim Cook [took a shot](http://techcrunch.com/2015/06/02/apples-tim-cook-delivers-blistering-speech-on-encryption-privacy/#.omoktd:NNlL) at Google about their privacy issues.
+
+The [Gogoro scooter](http://www.theverge.com/2015/6/9/8750399/gogoro-smartscooter-experience-center-taipei) resurfaced online these days. Great piece of technology.
+
+Finally, I've found this great write-up on an *unintended acceleration* [lawsuit against Toyota](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code#.VW4OltX2-ik.linkedin). There are technical references and 3rd party opinions about why this happened and Toyota's software development process at the time.
+
