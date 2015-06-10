@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Episode 1"
-date: "Ma mai 26 00:31:40 +0300 2015"
 ---
 
 [Placebo sleep](http://www.theatlantic.com/health/archive/2014/01/study-believing-you-ve-slept-well-even-if-you-havent-improves-performance/283305/).
