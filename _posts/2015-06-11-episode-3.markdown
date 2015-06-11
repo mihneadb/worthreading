@@ -9,7 +9,7 @@ Meanwhile, people in Mountain View seem to have [unbearable problems](https://tw
 
 [Great illustration](https://twitter.com/dhh/status/605685526675517440) of market dominance.
 
-An article that got quite some attention - some Egyptian handyman ended up being the first result for `google` on Google in Egypt. Guess what happened next.
+An article that got quite some attention - some Egyptian handyman ended up being the first result for `google` on Google in Egypt. Guess what happened next. [link](https://medium.com/@eyadnour/meet-the-egyptian-technician-who-is-currently-ranked-at-1-for-google-and-he-doesn-t-even-know-6cf1040efeab)
 
 I've found a great Twitter [account](https://twitter.com/rustlang_bot) that aggregates links to [rust-lang](http://www.rust-lang.org/) content.
 
