@@ -1,0 +1,29 @@
+---
+layout: post
+title: Episode 4
+---
+
+First off, a great [website](http://aaron-meyers.com/!/), showing off what you can do with WebGL.
+
+Speaking of the Web, it seems that the big players have agreed on a common `asm.js`, called [web assembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/).
+
+Best explanation of what map reduce is - [link](https://twitter.com/tgrall/status/520810627867348992).
+
+Jeff Atwood is [funny as usual](https://twitter.com/codinghorror/status/608913159487934464).
+
+The up and coming *No Man's Sky* game looks [really interesting](http://www.engadget.com/2015/06/19/minecraft-grand-theft-auto-no-mans-sky-e3/). And its developer is [funny as well](https://twitter.com/NoMansSky/status/598622099205451777).
+
+Google opened up about [diversity](http://www.google.com/diversity/).
+
+I didn't know Youtube was such a great source of money. Read more [here](http://www.quora.com/How-much-do-YouTubers-make-when-each-of-their-videos-get-50k-100k-500k-1m-and-1-5m-views/answer/George-Chalhoub-1?srid=3unQ&share=1).
+
+Nice write-up on why Mars is an interesting choice for the "next planet". [link](http://www.quora.com/Why-is-Elon-Musk-so-obsessed-with-Mars/answer/Jason-Coston?srid=3unQ&share=1)
+
+Quora has a great [list of tech talks](http://www.quora.com/What-tech-talks-should-every-software-engineer-watch/answer/Yad-Faeq?srid=3unQ&share=1) "every software engineer should see".
+
+Facebook's new *Moments* app raises [privacy concerns](http://fortune.com/2015/06/17/facebook-moments-privacy-facial-recognition/).
+
+Speaking about privacy - crazy what you can do with someone else's GoPro after [bruteforcing its password](http://www.bbc.com/news/technology-32934083). And it [turns out](http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/18/research-shows-how-macbook-webcams-can-spy-on-their-users-without-warning/) macs are also vulnerable.
+
+To wrap up, another darwin awards candidate - [link](https://twitter.com/_youhadonejob/status/615634807926689792).
+
