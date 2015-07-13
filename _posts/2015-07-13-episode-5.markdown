@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 4
+title: Episode 5
 ---
 
 A few words on why go's simplicity makes it [a great fit for open source](https://texlution.com/post/why-go-is-doomed-to-succeed/?imm_mid=0d3d37&cmp=em-prog-na-na-newsltr_20150620).
