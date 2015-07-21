@@ -1,0 +1,20 @@
+---
+layout: post
+title: Episode 6
+---
+
+We've reached Pluto. Pretty amazing, when you think about the [technological advancement](https://twitter.com/kayaburgess/status/620924159418322944).
+
+The guys at [Algolia](https://www.algolia.com/) talk about how [they went for metal](http://highscalability.com/blog/2015/7/13/algolias-fury-road-to-a-worldwide-api.html) instead of using *the cloud*, as mostly everybody these days.
+
+Nice insight on Quora on what to [look at when visiting Tokyo](https://www.quora.com/What-is-the-one-single-thing-all-tourists-should-do-when-they-visit-Tokyo/answer/Samson-Yee?srid=3unQ&share=1).
+
+Global warming or not, it looks like Greenland's ice sheet is [melting way faster](http://www.sfgate.com/green/article/Greenland-s-huge-ice-sheet-is-melting-far-faster-2516352.php#photo-2657529) than expected.
+
+A knowledge nugget, in case you ever wondered [what's with the tiny holes in airplane windows](http://www.slate.com/blogs/the_eye/2015/05/29/what_s_that_thing_why_are_there_holes_in_airplane_windows.html).
+
+In case you missed it, BMW recently launched the new [7 series](http://www.topgear.com/car-news/first-look/why-7-series-bmws-crystal-ball). There's some crazy technology involved.
+
+Speaking of cars, there's a sweet write-up on how cars went [from boxy to curvy](http://www.vox.com/2015/6/11/8762373/car-design-curves) designs over the years.
+
+Finally, it seems there's a pattern among the top US tech companies. [link](https://twitter.com/ValaAfshar/status/611058229481574400)
